@@ -1,4 +1,4 @@
-!(BrandBG.png)[Edvard Busck-Nielsen]
+![Edvard Busck-Nielsen](BrandBG.png)
 # Edvard Busck-Nielsen
 
 ## About Me.
