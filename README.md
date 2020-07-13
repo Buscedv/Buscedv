@@ -1,4 +1,4 @@
-![Edvard Busck-Nielsen](https://github.com/Buscedv/Buscedv/blob/master/BrandBG.png)
+![Edvard Busck-Nielsen](bgfinal.jpg "Edvard Busck-Nielsen")
 # Edvard Busck-Nielsen
 
 ## About Me.
