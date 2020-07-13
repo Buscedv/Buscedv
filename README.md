@@ -19,7 +19,7 @@ I enjoy learning about new things and finding solutions to different types of pr
 - PHP
 
 ## Contact.
-(https://edvard.io)[Website/Portfolio]
-(https://github.com/Buscedv)[GitHub]
-(https://linkedin.com/in/edvard-busck-nielsen)[LinkedIn]
-(mailto:me@edvard.io)[E-mail]
+- [Website/Portfolio](https://edvard.io)
+- [GitHub](https://github.com/Buscedv)
+- [LinkedIn](https://linkedin.com/in/edvard-busck-nielsen)
+- [E-mail](mailto:me@edvard.io)
