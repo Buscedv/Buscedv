@@ -1,4 +1,4 @@
-![BrandBG.png](Edvard Busck-Nielsen)
+!(BrandBG.png)[Edvard Busck-Nielsen]
 # Edvard Busck-Nielsen
 
 ## About Me.
@@ -19,4 +19,7 @@ I enjoy learning about new things and finding solutions to different types of pr
 - PHP
 
 ## Contact.
-[https://github.com/Buscedv](GitHub)
+(https://edvard.io)[Website/Portfolio]
+(https://github.com/Buscedv)[GitHub]
+(https://linkedin.com/in/edvard-busck-nielsen)[LinkedIn]
+(mailto:me@edvard.io)[E-mail]
