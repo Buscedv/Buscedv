@@ -1,16 +1,22 @@
-### Hi there 👋
+![BrandBG.png](Edvard Busck-Nielsen)
+# Edvard Busck-Nielsen
 
-<!--
-**Buscedv/Buscedv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me.
+I enjoy learning about new things and finding solutions to different types of problems. I'm constantly growing and I try to always have something to work on, both project-wise and my skills as a developer. I have experience creating personal websites, internal tools and other web products.
 
-Here are some ideas to get you started:
+- **Software** Development.
+- **Web** Development.
+- Located in **Helsinki**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills.
+- Vue.js
+- Python
+- Git & GItHub
+- JavaScript
+- Linux
+- Flask (Python)
+- HTML5
+- PHP
+
+## Contact.
+[https://github.com/Buscedv](GitHub)
