@@ -38,7 +38,9 @@ I enjoy learning about new things and finding solutions to different types of pr
 - PHP
 
 # Contact
-<a align="left" href="https://edvard.dev" target="_blank"><img src="/svg/links.svg" alt="Portfolio"></a>
-<a align="left" href="https://github.com/Buscedv" target="_blank"><img src="/svg/github.svg" alt="GitHub"></a>
-<a align="left" href="https://linkedin.com/in/edvard-busck-nielsen" target="_blank"><img src="/svg/linkedin.svg" alt="LinkedIn"></a>
-<a align="left" href="mailto:me@edvard.dev"><img src="/svg/mail.svg" alt="me@edvard.dev"></a>
+<center>
+    <a href="https://edvard.dev" target="_blank"><img src="/svg/links.svg" height="40" alt="Portfolio"></a>
+    <a href="https://github.com/Buscedv" target="_blank"><img src="/svg/github.svg" height="40" alt="GitHub"></a>
+    <a href="https://linkedin.com/in/edvard-busck-nielsen" target="_blank"><img src="/svg/linkedin.svg" height="40" alt="LinkedIn"></a>
+    <a href="mailto:me@edvard.dev"><img src="/svg/mail.svg" height="40" alt="me@edvard.dev"></a>
+</center>
