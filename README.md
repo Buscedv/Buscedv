@@ -13,20 +13,18 @@ I enjoy learning about new things and finding solutions to different types of pr
 - Located in **Helsinki**.
 
 ## Featured Projects
-<a href="https://github.com/Buscedv/Ask">
-  <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Ask" />
+<a href="https://github.com/Buscedv/Ask" align="left">
+  <img src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Ask" />
 </a>
-<a href="https://github.com/Buscedv/Docual">
-  <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Docual" />
+<a href="https://github.com/Buscedv/Docual" align="left">
+  <img src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Docual" />
 </a>
-<a href="https://github.com/Buscedv/Boilercrate">
-  <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Boilercrate" />
+<a href="https://github.com/Buscedv/Boilercrate" align="left">
+  <img src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Boilercrate" />
 </a>
-<a href="https://github.com/Buscedv/abnormal-expressions">
-  <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Abnormal-Expressions" />
+<a href="https://github.com/Buscedv/abnormal-expressions" align="left">
+  <img src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Abnormal-Expressions" />
 </a>
-
----
 
 ## Skills
 Vue.js<br/>
