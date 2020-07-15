@@ -1,9 +1,7 @@
 ![Edvard Busck-Nielsen](https://github.com/Buscedv/Buscedv/blob/master/bgfinal.jpg?raw=true "Edvard Busck-Nielsen")
 # Edvard Busck-Nielsen
 
-![Buscedv's GitHub stats](https:///github-stats.vercel.app/api?username=buscedv&show_icons=true&bg_color=10141c&title_color=0d7147&icon_color=0d7147&text_color=bab9ba)(https://github.com/buscedv)
-
-
+![My GitHub stats](https:///github-stats.vercel.app/api?username=buscedv&show_icons=true&bg_color=10141c&title_color=0d7147&icon_color=0d7147&text_color=bab9ba)(https://github.com/buscedv)
 
 
 ## About Me.
@@ -22,6 +20,20 @@ I enjoy learning about new things and finding solutions to different types of pr
 - Flask (Python)
 - HTML5
 - PHP
+
+## Featured Projects
+<a href="https://github.com/Buscedv/Ask">
+  <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Ask" />
+</a>
+<a href="https://github.com/Buscedv/Docual">
+  <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Docual" />
+</a>
+<a href="https://github.com/Buscedv/Boilercrate">
+  <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Boilercrate" />
+</a>
+<a href="https://github.com/Buscedv/abnormal-expressions">
+  <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Abnormal-Expressions" />
+</a>
 
 ## Contact.
 - [Website/Portfolio](https://edvard.dev)
