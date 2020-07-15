@@ -1,7 +1,7 @@
 ![Edvard Busck-Nielsen](https://github.com/Buscedv/Buscedv/blob/master/bgfinal.jpg?raw=true "Edvard Busck-Nielsen")
 # Edvard Busck-Nielsen
 
-[![Buscedv's github stats](https://github-readme-stats.vercel.app/api?username=buscedv)](https://github.com/anuraghazra/github-readme-stats)
+[![Buscedv's github stats](https://github-readme-stats.vercel.app/api?username=buscedv)](https://github.com/buscedv)
 
 
 ## About Me.
