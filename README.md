@@ -2,7 +2,7 @@
 # Edvard Busck-Nielsen
 
 ![My GitHub stats](https:///github-stats.vercel.app/api?username=buscedv&show_icons=true&bg_color=10141c&title_color=0d7147&icon_color=0d7147&text_color=bab9ba)(https://github.com/buscedv)
-![Anurag's github stats](https://github-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Buscedv's github stats](https://github-stats.vercel.app/api?username=buscedv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 
