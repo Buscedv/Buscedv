@@ -26,7 +26,7 @@ I enjoy learning about new things and finding solutions to different types of pr
   <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Abnormal-Expressions" />
 </a>
 
---
+---
 
 ## Skills
 Vue.js<br/>
