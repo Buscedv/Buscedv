@@ -1,6 +1,8 @@
 ![Edvard Busck-Nielsen](https://github.com/Buscedv/Buscedv/blob/master/bgfinal.jpg?raw=true "Edvard Busck-Nielsen")
 # Edvard Busck-Nielsen
 
+[![Buscedv's github stats](https://github-stats.edvard.dev/api?username=buscedv)](https://github.com/buscedv/github-stats)
+
 ## About Me.
 I enjoy learning about new things and finding solutions to different types of problems. I'm constantly growing and I try to always have something to work on, both project-wise and my skills as a developer. I have experience creating personal websites, internal tools and other web products.
 
