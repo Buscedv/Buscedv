@@ -28,17 +28,17 @@ I enjoy learning about new things and finding solutions to different types of pr
 </a>
 
 # Skills
-Vue.js<br/>
-Python<br/>
-Git & GItHub<br/>
-JavaScript<br/>
-Linux<br/>
-Flask (Python)<br/>
-HTML5<br/>
-PHP
+- Vue.js
+- Python
+- Git & GItHub
+- JavaScript
+- Linux
+- Flask (Python)
+- HTML5
+- PHP
 
 # Contact
--  <a href="https://edvard.dev" target="_blank"><img src="/svg/links.svg"></a>
-- ![](/svg/github.svg) [GitHub](https://github.com/Buscedv)
-- ![](/svg/linkedin.svg) [LinkedIn](https://linkedin.com/in/edvard-busck-nielsen)
-- ![](/svg/mail.svg) [E-mail](mailto:me@edvard.io)
+<a align="left" href="https://edvard.dev" target="_blank"><img src="/svg/links.svg" alt="Portfolio"></a>
+<a align="left" href="https://github.com/Buscedv" target="_blank"><img src="/svg/github.svg" alt="GitHub"></a>
+<a align="left" href="https://linkedin.com/in/edvard-busck-nielsen" target="_blank"><img src="/svg/linkedin.svg" alt="LinkedIn"></a>
+<a align="left" href="mailto:me@edvard.dev"><img src="/svg/mail.svg" alt="me@edvard.dev"></a>
