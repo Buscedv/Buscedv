@@ -26,19 +26,17 @@ I enjoy learning about new things and finding solutions to different types of pr
   <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Ask" />
 </a>
 <a href="https://github.com/Buscedv/Docual">
-  <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Docual" />
+  <img align="right" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Docual" />
 </a>
 <a href="https://github.com/Buscedv/Boilercrate">
   <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Boilercrate" />
 </a>
 <a href="https://github.com/Buscedv/abnormal-expressions">
-  <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Abnormal-Expressions" />
+  <img align="right" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Abnormal-Expressions" />
 </a>
 
-<center w="100">
 ## Contact.
 - [Website/Portfolio](https://edvard.dev)
 - [GitHub](https://github.com/Buscedv)
 - [LinkedIn](https://linkedin.com/in/edvard-busck-nielsen)
 - [E-mail](mailto:me@edvard.io)
-</ceneter>
