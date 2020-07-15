@@ -38,7 +38,7 @@ HTML5<br/>
 PHP
 
 # Contact
-- [Website/Portfolio](https://edvard.dev)
-- [GitHub](https://github.com/Buscedv)
-- [LinkedIn](https://linkedin.com/in/edvard-busck-nielsen)
-- [E-mail](mailto:me@edvard.io)
+- ![](/svg/links.svg) [Website/Portfolio](https://edvard.dev)
+- ![](/svg/github.svg) [GitHub](https://github.com/Buscedv)
+- ![](/svg/linkedin.svg) [LinkedIn](https://linkedin.com/in/edvard-busck-nielsen)
+- ![](/svg/mail.svg) [E-mail](mailto:me@edvard.io)
