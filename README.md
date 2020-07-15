@@ -26,6 +26,8 @@ I enjoy learning about new things and finding solutions to different types of pr
   <img align="left" src="https://github-stats.vercel.app/api/pin/?username=buscedv&repo=Abnormal-Expressions" />
 </a>
 
+--
+
 ## Skills
 Vue.js<br/>
 Python<br/>
@@ -36,7 +38,7 @@ Flask (Python)<br/>
 HTML5<br/>
 PHP
 
-## Contact.
+## Contact
 - [Website/Portfolio](https://edvard.dev)
 - [GitHub](https://github.com/Buscedv)
 - [LinkedIn](https://linkedin.com/in/edvard-busck-nielsen)
