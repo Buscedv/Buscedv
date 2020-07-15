@@ -1,6 +1,6 @@
 ![Edvard Busck-Nielsen](https://github.com/Buscedv/Buscedv/blob/master/bgfinal.jpg?raw=true "Edvard Busck-Nielsen")
 
-![Edvard Busck-Nielsen](https://buscedv.github.io/useful-readme-inserts/heading?text=Edvard&size=10&color=0d7147)
+<img src="https://buscedv.github.io/useful-readme-inserts/heading?text=Edvard&size=10&color=0d7147" alt="Edvard Busck-Nielsen">
 
 ![Buscedv's github stats](https://github-stats.vercel.app/api?username=buscedv&show_icons=true&title_color=0d7147&icon_color=0d7147&text_color=bab9ba&bg_color=10141c)
 
